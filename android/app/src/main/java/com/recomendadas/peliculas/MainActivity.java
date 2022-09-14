@@ -1,4 +1,4 @@
-package com.recomendadas.peliculas;
+package com.recomendadas.gatos;
 
 import io.flutter.embedding.android.FlutterActivity;
 

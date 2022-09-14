@@ -1,4 +1,4 @@
-name: peliculas
+name: gatos
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -25,6 +25,7 @@ dependencies:
     sdk: flutter
   http: ^0.12.2
   cached_network_image: ^2.5.0
+  flutter_button: ^0.0.4
   
   
   
@@ -33,7 +34,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
-  flutter_swiper: ^1.1.6
+  
 
 dev_dependencies:
   flutter_test:
